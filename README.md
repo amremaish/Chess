@@ -1,3 +1,4 @@
 # Chess
+it's a multiplayer chess with java fx
 
-![alt text](https://pasteboard.co/a881f720-15b3-46e0-9fb4-cfdfc596da3b)
+![](https://i.ibb.co/61tVPqb/Capture.png)
